@@ -8,7 +8,7 @@ Welcome! Here are some resources to help you start hacking!
 ## Get Started
 
 1. [Make a Twilio Account (it's free!)](https://www.twilio.com/try-twilio)
-2. [Apply a promo code](https://www.twilio.com/blog/apply-promo-code)
+2. [Apply a promo code](https://www.twilio.com/blog/apply-promo-code): HACKPNW23
 3. [Buy a Twilio phone number](https://www.twilio.com/console/phone-numbers/incoming)
 4. [Configure you Twilio number with Twilio Studio](https://www.twilio.com/docs/studio/user-guide/get-started#configure-a-twilio-phone-number-to-connect-to-a-studio-flow)
 
