@@ -2,7 +2,7 @@
 
 Welcome! Here are some resources to help you start hacking!
 
-Studio is an easy to use low-code tool that helps you quickly build a communications app.
+[Studio](https://www.twilio.com/docs/studio/user-guide) is an easy to use low-code tool that helps you quickly build a communications app.
 
 
 ## Get Started
